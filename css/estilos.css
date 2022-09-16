@@ -1,5 +1,5 @@
 body {
-  color: rgb(141, 9, 71);
+  color: rgb(220, 136, 69);
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 16px;
@@ -27,13 +27,13 @@ body {
   margin: 0 auto;
 }
 #container h1 {
-  font-size: 20px;
+  font-size: 30px;
 }
 #post {
   padding: 1em;
 }
 
 p {
-  color: rgb(189, 121, 19);
-  font-size: 30px;
+  color: rgb(63, 62, 60);
+  font-size: 22px;
 }
