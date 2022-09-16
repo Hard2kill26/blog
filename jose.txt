@@ -1,1 +1,4 @@
-Esta es la historia de Jose Andres de Puerto Ordaz
+Esta es la historia de Jose Andres de Puerto Ordaz.
+
+Tiene 35 años.
+Y está probando git.
