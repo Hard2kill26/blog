@@ -7,17 +7,18 @@ body {
   padding: 0;
 }
 #cabecera {
-  background: rgb(70, 11, 58);
+  background: rgb(97, 1, 114);
   box-shadow: 0 2px 20px 0 rgba(0, 0, 0, 0.5);
   color: #fff;
   font-weight: 700;
+  font-size: 1.5em;
   margin: 0;
-  padding: 0.5em;
+  padding: 0.7em;
 }
 #cabecera #tagline {
   padding: 0 0 0 1em;
   font-weight: 400;
-  font-size: 0.8em;
+  font-size: 0.7em;
 }
 #container {
   width: 70%;
