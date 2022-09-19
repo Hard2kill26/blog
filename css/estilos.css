@@ -38,3 +38,10 @@ p {
   color: rgb(63, 62, 60);
   font-size: 22px;
 }
+
+#footer{
+  background: rgb(73, 12, 134);
+  color: white;
+  text-align: center;
+  padding: 0.5em;
+}
