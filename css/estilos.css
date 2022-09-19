@@ -41,7 +41,15 @@ body {
   padding: 1.1em;
 }
 
-#footer {
+#footer23{
+  background: rgb(73, 12, 134);
+  color: white;
+  text-align: center;
+  padding: 1em;
+}
+
+
+#footer{
   background: rgb(73, 12, 134);
   color: white;
   text-align: center;
