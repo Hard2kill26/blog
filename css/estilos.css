@@ -37,8 +37,8 @@ body {
   color: coral;
 }
 #post {
-  padding: 1em;
-  background: #fff;
+background: rgb(214, 206, 206);
+padding: 1.1em;
 }
 
 #footer{
