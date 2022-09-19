@@ -36,4 +36,7 @@ body {
   font-size: 30px;
   color: coral;
 }
-#post{background:#fff;padding:1em}
+#post {
+  background: #fff;
+  padding: 1em;
+}
